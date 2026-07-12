@@ -1,0 +1,101 @@
+Transaction_ID,Customer_ID,Amount,Merchant,Location,Risk_Flag
+TXN001,CUST1082,15092,Amazon,Hyderabad,Low
+TXN002,CUST1018,97030,Flipkart,Bengaluru,High
+TXN003,CUST1005,4405,Flipkart,Delhi,Low
+TXN004,CUST1078,3978,Jewellery Store,Delhi,Low
+TXN005,CUST1090,71926,Myntra,Delhi,High
+TXN006,CUST1036,1351,Swiggy,Kolkata,Low
+TXN007,CUST1020,28721,Croma,Bengaluru,Low
+TXN008,CUST1013,47552,Croma,Hyderabad,Low
+TXN009,CUST1094,60717,Jewellery Store,Bengaluru,Low
+TXN010,CUST1049,10828,Jewellery Store,Hyderabad,Low
+TXN011,CUST1080,47900,ATM Withdrawal,Delhi,Low
+TXN012,CUST1006,87173,Zomato,Hyderabad,Medium
+TXN013,CUST1030,13738,Myntra,Hyderabad,Low
+TXN014,CUST1047,21819,Croma,Pune,Low
+TXN015,CUST1035,92488,Flipkart,Mumbai,High
+TXN016,CUST1032,21917,Petrol Pump,Kolkata,Low
+TXN017,CUST1082,90698,Jewellery Store,Delhi,High
+TXN018,CUST1099,7831,Zomato,Chennai,Low
+TXN019,CUST1052,35593,Flipkart,Delhi,Low
+TXN020,CUST1073,94598,Croma,Delhi,High
+TXN021,CUST1051,84759,Petrol Pump,Mumbai,High
+TXN022,CUST1032,98147,Jewellery Store,Hyderabad,Medium
+TXN023,CUST1055,76984,Myntra,Pune,High
+TXN024,CUST1018,67284,Petrol Pump,Bengaluru,Low
+TXN025,CUST1015,20533,Swiggy,Kolkata,Low
+TXN026,CUST1050,50519,ATM Withdrawal,Coimbatore,Medium
+TXN027,CUST1071,2004,Flipkart,Hyderabad,Low
+TXN028,CUST1044,15121,Reliance,Kolkata,Low
+TXN029,CUST1001,95146,Reliance,Mumbai,High
+TXN030,CUST1014,82459,Reliance,Delhi,High
+TXN031,CUST1098,21674,Jewellery Store,Chennai,Low
+TXN032,CUST1063,3052,Flipkart,Pune,Medium
+TXN033,CUST1040,31885,Amazon,Delhi,Low
+TXN034,CUST1011,11726,Petrol Pump,Bengaluru,Medium
+TXN035,CUST1069,16983,Swiggy,Coimbatore,Medium
+TXN036,CUST1022,35241,Jewellery Store,Kolkata,Low
+TXN037,CUST1070,99494,Zomato,Hyderabad,High
+TXN038,CUST1086,85680,Croma,Coimbatore,Medium
+TXN039,CUST1058,16360,Zomato,Delhi,Low
+TXN040,CUST1003,77610,Jewellery Store,Delhi,High
+TXN041,CUST1001,9805,Amazon,Delhi,Low
+TXN042,CUST1005,43809,Flipkart,Delhi,Medium
+TXN043,CUST1063,28580,Jewellery Store,Mumbai,Low
+TXN044,CUST1074,76025,Petrol Pump,Delhi,Medium
+TXN045,CUST1053,25457,Flipkart,Bengaluru,Low
+TXN046,CUST1046,56019,Myntra,Coimbatore,Low
+TXN047,CUST1007,88759,Flipkart,Chennai,High
+TXN048,CUST1044,14822,Zomato,Delhi,Low
+TXN049,CUST1058,18873,Myntra,Mumbai,Low
+TXN050,CUST1032,10380,Petrol Pump,Bengaluru,Low
+TXN051,CUST1070,2434,Flipkart,Delhi,Low
+TXN052,CUST1063,63592,Zomato,Kolkata,Low
+TXN053,CUST1022,50172,Amazon,Kolkata,Medium
+TXN054,CUST1059,37888,Myntra,Coimbatore,Medium
+TXN055,CUST1038,29034,Amazon,Chennai,Low
+TXN056,CUST1008,7072,ATM Withdrawal,Coimbatore,Low
+TXN057,CUST1068,21135,Amazon,Bengaluru,Medium
+TXN058,CUST1009,78492,Flipkart,Delhi,High
+TXN059,CUST1073,32771,ATM Withdrawal,Chennai,Low
+TXN060,CUST1054,86663,ATM Withdrawal,Pune,Medium
+TXN061,CUST1027,88282,Croma,Delhi,High
+TXN062,CUST1017,88539,Reliance,Coimbatore,High
+TXN063,CUST1097,10008,Amazon,Coimbatore,Low
+TXN064,CUST1073,13604,Flipkart,Delhi,Low
+TXN065,CUST1017,46245,Flipkart,Delhi,Medium
+TXN066,CUST1021,57933,Jewellery Store,Hyderabad,Low
+TXN067,CUST1084,69829,Amazon,Hyderabad,Low
+TXN068,CUST1014,18101,Reliance,Bengaluru,Medium
+TXN069,CUST1096,73012,Swiggy,Hyderabad,High
+TXN070,CUST1027,94558,Croma,Delhi,High
+TXN071,CUST1034,66744,Petrol Pump,Hyderabad,Low
+TXN072,CUST1007,12597,Myntra,Hyderabad,Low
+TXN073,CUST1043,17646,Reliance,Mumbai,Low
+TXN074,CUST1071,92993,Myntra,Chennai,High
+TXN075,CUST1089,20036,Jewellery Store,Chennai,Low
+TXN076,CUST1075,72920,Swiggy,Kolkata,High
+TXN077,CUST1040,48295,Amazon,Pune,Medium
+TXN078,CUST1032,87916,Flipkart,Pune,Medium
+TXN079,CUST1053,81851,Swiggy,Delhi,Medium
+TXN080,CUST1023,54540,Amazon,Mumbai,Low
+TXN081,CUST1043,54464,Zomato,Hyderabad,Medium
+TXN082,CUST1090,14668,Myntra,Chennai,Medium
+TXN083,CUST1029,26658,Petrol Pump,Pune,Low
+TXN084,CUST1030,29719,Amazon,Delhi,Low
+TXN085,CUST1036,9599,Reliance,Pune,Low
+TXN086,CUST1052,89565,Jewellery Store,Pune,Medium
+TXN087,CUST1015,34737,Swiggy,Hyderabad,Medium
+TXN088,CUST1077,57459,Croma,Pune,Medium
+TXN089,CUST1066,15657,Myntra,Delhi,Low
+TXN090,CUST1091,57654,Amazon,Delhi,Medium
+TXN091,CUST1009,87562,Croma,Pune,High
+TXN092,CUST1016,94839,Reliance,Hyderabad,High
+TXN093,CUST1042,53243,Reliance,Mumbai,Medium
+TXN094,CUST1086,50195,Swiggy,Hyderabad,Medium
+TXN095,CUST1001,40329,Reliance,Delhi,Medium
+TXN096,CUST1075,80016,Croma,Coimbatore,High
+TXN097,CUST1087,28510,Jewellery Store,Coimbatore,Low
+TXN098,CUST1095,22741,Flipkart,Hyderabad,Low
+TXN099,CUST1082,81667,Croma,Bengaluru,Medium
+TXN100,CUST1097,31284,Reliance,Delhi,Low
